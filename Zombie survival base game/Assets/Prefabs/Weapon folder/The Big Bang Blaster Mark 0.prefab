@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6359674484493306222
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6674381379083277638, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_Name
+      value: The Big Bang Blaster
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277656, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: BulletType
+      value: 
+      objectReference: {fileID: 5033656072065685067, guid: 9a5e3a26d2005e74f9497c3959a26236,
+        type: 3}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: fire_rate
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: maxAmmo
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: last_fired
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: bullet_types.Array.data[0]
+      value: 
+      objectReference: {fileID: 5033656072065685067, guid: 9a5e3a26d2005e74f9497c3959a26236,
+        type: 3}
+    - target: {fileID: 6674381379083277657, guid: 941037383e8c21e4294ae8ed7a5df9d5,
+        type: 3}
+      propertyPath: currentAmmo
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 941037383e8c21e4294ae8ed7a5df9d5, type: 3}
